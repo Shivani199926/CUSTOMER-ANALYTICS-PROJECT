@@ -26,7 +26,7 @@ Overall Project : <br>
 • Built a model to predict whether the shipping deliveries will be received late or on time by the customers <br>
 • Developt  recommendations & benefit analysis based on insights and model prediction 
 <br>
-
+https://github.com/Shivani199926/CUSTOMER-ANALYTICS-PROJECT/tree/main
 ## **Background and Problem**
 An international e-commerce company that sells electronic products want to discover key insights from their customer database. Currently, most of the shipping deliveries are late. 
 <br>
